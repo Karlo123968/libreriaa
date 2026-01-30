@@ -1,4 +1,4 @@
-# libreriaa
+Libreria
 Este repositorio contiene un sitio web informativo cuyo tema es una biblioteca, desarrollado como parte de una práctica académica de HTML y CSS.
 
 El sitio parte de una página principal que incluye una imagen utilizada como mapa de imagen, permitiendo al usuario seleccionar distintas áreas de la biblioteca. Cada área dirige a una página interna del sitio, sin utilizar enlaces externos.
